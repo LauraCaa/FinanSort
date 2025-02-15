@@ -1,0 +1,156 @@
+{
+  "balance": [
+    {
+      "id": "6643f7321b1a114165a4bd3e",
+      "createdAt": "2024-05-03",
+      "image": "https://via.placeholder.com/30",
+      "name": "Zytrax",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f7322ece7b2f51a61c1d",
+      "createdAt": "2024-02-06",
+      "image": "https://via.placeholder.com/30",
+      "name": "Xanide",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f73289f79546bb24290e",
+      "createdAt": "2024-02-27",
+      "image": "https://via.placeholder.com/30",
+      "name": "Accufarm",
+      "operation": "IP PURCHASE",
+      "amount": "1,811$"
+    },
+    {
+      "id": "6643f732fe44ef11abd20bc2",
+      "createdAt": "2024-06-06",
+      "image": "https://via.placeholder.com/30",
+      "name": "Nspire",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f73267101dba2937eebb",
+      "createdAt": "2024-03-19",
+      "image": "https://via.placeholder.com/30",
+      "name": "Rodeocean",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f732d8be52f4c77a47b0",
+      "createdAt": "2024-04-20",
+      "image": "https://via.placeholder.com/30",
+      "name": "Plasmox",
+      "operation": "IP PURCHASE",
+      "amount": "773$"
+    },
+    {
+      "id": "6643f7329ebc9307f05bc929",
+      "createdAt": "2024-01-29",
+      "image": "https://via.placeholder.com/30",
+      "name": "Retrotex",
+      "operation": "IN PROGRESS",
+      "amount": "1,888$"
+    },
+    {
+      "id": "6643f732c09a350961d8f17d",
+      "createdAt": "2024-03-26",
+      "image": "https://via.placeholder.com/30",
+      "name": "Kiosk",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f732ed4e5b01f439c5ec",
+      "createdAt": "2024-05-21",
+      "image": "https://via.placeholder.com/30",
+      "name": "Daisu",
+      "operation": "IP PURCHASE",
+      "amount": "-442$"
+    },
+    {
+      "id": "6643f7322a56e7c1b3d78add",
+      "createdAt": "2024-01-20",
+      "image": "https://via.placeholder.com/30",
+      "name": "Ecstasia",
+      "operation": "IP PURCHASE",
+      "amount": "-699$"
+    },
+    {
+      "id": "6643f73259e773710c051cb3",
+      "createdAt": "2024-01-10",
+      "image": "https://via.placeholder.com/30",
+      "name": "Dymi",
+      "operation": "COMPENSATION",
+      "amount": "-1,838$"
+    },
+    {
+      "id": "6643f7329b2c4931b26fc695",
+      "createdAt": "2024-04-23",
+      "image": "https://via.placeholder.com/30",
+      "name": "Crustatia",
+      "operation": "COMPENSATION",
+      "amount": "-1,354$"
+    },
+    {
+      "id": "6643f7325998ab28679239f5",
+      "createdAt": "2024-03-17",
+      "image": "https://via.placeholder.com/30",
+      "name": "Eargo",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f73292ad9c483968fc7f",
+      "createdAt": "2024-03-09",
+      "image": "https://via.placeholder.com/30",
+      "name": "Tri@Tribalog",
+      "operation": "IP PURCHASE",
+      "amount": "-404$"
+    },
+    {
+      "id": "6643f73290763cf1dca37142",
+      "createdAt": "2024-06-01",
+      "image": "https://via.placeholder.com/30",
+      "name": "Zaggle",
+      "operation": "FREE TRIAL",
+      "amount": "Free"
+    },
+    {
+      "id": "6643f7322aabc087e8bcc2ed",
+      "createdAt": "2024-04-15",
+      "image": "https://via.placeholder.com/30",
+      "name": "Eclipsent",
+      "operation": "IN PROGRESS",
+      "amount": "997$"
+    },
+    {
+      "id": "6643f732659434ee72a0b488",
+      "createdAt": "2024-01-08",
+      "image": "https://via.placeholder.com/30",
+      "name": "Prosure",
+      "operation": "IN PROGRESS",
+      "amount": "-849$"
+    },
+    {
+      "id": "6643f7322125fe6485a8f553",
+      "createdAt": "2024-02-12",
+      "image": "https://via.placeholder.com/30",
+      "name": "Handshake",
+      "operation": "IN PROGRESS",
+      "amount": "-763$"
+    },
+    {
+      "id": "6643f73222355bf85c3f72b9",
+      "createdAt": "2024-05-17",
+      "image": "https://via.placeholder.com/30",
+      "name": "Extrawear",
+      "operation": "COMPENSATION",
+      "amount": "-1,441$"
+    }
+  ]
+}
