@@ -1,0 +1,12 @@
+services:
+  finan-sort:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ".:/opt/finan-sort"
+      - "/opt/finan-sort/node_modules"
+    environment:
+      - NEXT_WEBPACK_USEPOLLING=true
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
